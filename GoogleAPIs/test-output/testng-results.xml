@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3924" started-at="2017-11-29T19:26:12Z" finished-at="2017-11-29T19:26:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3924" started-at="2017-11-29T19:26:12Z" finished-at="2017-11-29T19:26:16Z">
+      <class name="googleAPIs.nearbySearchTest">
+        <test-method status="PASS" signature="getGoogleAPIkey()[pri:0, instance:googleAPIs.nearbySearchTest@564fabc8]" name="getGoogleAPIkey" is-config="true" duration-ms="16" started-at="2017-11-29T19:26:12Z" finished-at="2017-11-29T19:26:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getGoogleAPIkey -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:googleAPIs.nearbySearchTest@564fabc8]" name="setUp" is-config="true" duration-ms="511" started-at="2017-11-29T19:26:12Z" finished-at="2017-11-29T19:26:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getData()[pri:0, instance:googleAPIs.nearbySearchTest@564fabc8]" name="getData" duration-ms="3381" started-at="2017-11-29T19:26:13Z" finished-at="2017-11-29T19:26:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+      </class> <!-- googleAPIs.nearbySearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

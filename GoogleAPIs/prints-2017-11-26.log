@@ -1,0 +1,8 @@
+20:36:01.861 [main] INFO  googleAPIs.nearbySearchTest - [2048]
+20:36:01.881 [main] INFO  googleAPIs.nearbySearchTest - results[0].name
+20:36:02.743 [main] INFO  googleAPIs.nearbySearchTest - Coca-Cola London Eye
+20:42:20.047 [main] INFO  googleAPIs.nearbySearchTest - [2048]
+20:42:20.051 [main] INFO  googleAPIs.nearbySearchTest - results[0].name
+20:42:20.548 [main] INFO  googleAPIs.nearbySearchTest - Coca-Cola London Eye
+20:46:59.263 [main] INFO  googleAPIs.nearbySearchTest - [2048]
+20:46:59.268 [main] INFO  googleAPIs.nearbySearchTest - results[0].name

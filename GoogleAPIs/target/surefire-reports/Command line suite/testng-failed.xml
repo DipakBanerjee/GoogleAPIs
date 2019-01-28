@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test name="Command line test" preserve-order="false">
+    <classes>
+      <class name="googleAPIs.nearbySearchTest"/>
+      <class name="googleAPIs.textSearchTest"/>
+      <class name="googleAPIs.addPlaceTest"/>
+    </classes>
+  </test> <!-- Command line test -->
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="googleAPIs.nearbySearchTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="getGoogleAPIkey"/>
+        </methods>
+      </class> <!-- googleAPIs.nearbySearchTest -->
+      <class name="googleAPIs.textSearchTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="getGoogleAPIkey"/>
+        </methods>
+      </class> <!-- googleAPIs.textSearchTest -->
+      <class name="googleAPIs.addPlaceTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="postData"/>
+        </methods>
+      </class> <!-- googleAPIs.addPlaceTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

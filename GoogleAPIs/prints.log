@@ -1,0 +1,3 @@
+21:18:16.727 [main] INFO  googleAPIs.nearbySearchTest - [2048]
+21:18:16.783 [main] INFO  googleAPIs.nearbySearchTest - results[0].name
+21:18:17.640 [main] INFO  googleAPIs.nearbySearchTest - Coca-Cola London Eye

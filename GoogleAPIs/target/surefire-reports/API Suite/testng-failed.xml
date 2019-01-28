@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [API Suite]">
+  <test name="API_Tests">
+    <classes>
+      <class name="googleAPIs.nearbySearchTest"/>
+      <class name="googleAPIs.textSearchTest"/>
+      <class name="resources.utility_class"/>
+    </classes>
+  </test> <!-- API_Tests -->
+</suite> <!-- Failed suite [API Suite] -->
